@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sbibhuti/reactCarousal/static/css/main.ba8fbeb1.chunk.css",
+    "main.js": "/sbibhuti/reactCarousal/static/js/main.f8548e69.chunk.js",
+    "main.js.map": "/sbibhuti/reactCarousal/static/js/main.f8548e69.chunk.js.map",
+    "runtime-main.js": "/sbibhuti/reactCarousal/static/js/runtime-main.48472c71.js",
+    "runtime-main.js.map": "/sbibhuti/reactCarousal/static/js/runtime-main.48472c71.js.map",
+    "static/css/2.4be38407.chunk.css": "/sbibhuti/reactCarousal/static/css/2.4be38407.chunk.css",
+    "static/js/2.cea226df.chunk.js": "/sbibhuti/reactCarousal/static/js/2.cea226df.chunk.js",
+    "static/js/2.cea226df.chunk.js.map": "/sbibhuti/reactCarousal/static/js/2.cea226df.chunk.js.map",
+    "static/js/3.e00dd12a.chunk.js": "/sbibhuti/reactCarousal/static/js/3.e00dd12a.chunk.js",
+    "static/js/3.e00dd12a.chunk.js.map": "/sbibhuti/reactCarousal/static/js/3.e00dd12a.chunk.js.map",
+    "index.html": "/sbibhuti/reactCarousal/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/sbibhuti/reactCarousal/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.ba8fbeb1.chunk.css.map": "/sbibhuti/reactCarousal/static/css/main.ba8fbeb1.chunk.css.map",
+    "static/js/2.cea226df.chunk.js.LICENSE.txt": "/sbibhuti/reactCarousal/static/js/2.cea226df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48472c71.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.cea226df.chunk.js",
+    "static/css/main.ba8fbeb1.chunk.css",
+    "static/js/main.f8548e69.chunk.js"
+  ]
+}
